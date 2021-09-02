@@ -36,6 +36,3 @@ input[type="submit"],input[type="reset"],.opbtn{
     margin: 15px 0 10px;
     outline: none;
 }
-input[type="submit"]:hover{
-    background: #f3f3f3;
-}
